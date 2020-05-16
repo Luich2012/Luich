@@ -1,0 +1,2 @@
+webpackJsonp([3],{hjbE:function(e,t){},"ni/x":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var i={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"new"},[t("h1",[this._v("This is Admin/New")])])}]};var s=n("VU/8")({name:"new",data:function(){return{}}},i,!1,function(e){n("hjbE")},null,null);t.default=s.exports}});
+//# sourceMappingURL=3.211d83ed397d38929bd3.js.map
